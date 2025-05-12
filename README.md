@@ -1,7 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ben! 👋
 
+I am a passionate Computer Science Student with a love for programming. I enjoy working on web projects, but also random thins that take my interest.
+
+![Ben's Stats](https://github-readme-stats.vercel.app/api?username=benlea24&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+- 🔭 I'm currently a first year in Computer Science at Cardiff University.
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,java,py)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 🚀 Developing full stack Portfolio website
+- 🚀 Learning Unity
+
+ ## 🏆 Achievements
+
+
+## 📬 Get in Touch
+
+[![Add me on Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+  
+Thanks for stopping by!
 <!--
-**benlea24/benlea24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
