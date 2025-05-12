@@ -21,6 +21,7 @@ I am a passionate Computer Science Student with a love for programming. I enjoy 
 
 ## 📬 Get in Touch
 
+- Add me on Linkedin [www.linkedin.com/in/ben-lea](https://www.linkedin.com/in/ben-lea/)
 [![Add me on Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
   
 Thanks for stopping by!
